@@ -16,7 +16,7 @@ Fraud detection using advanced AI & ML techniques. Support vector Machine, Tenso
 
 ## MLOPS
 
-> MLOPS involves understading of ML implementation end to end from development to getting it productions ready.
+> MLOPS involves understading of ML implementation end to end from development to getting it production ready. Most buisness start with a focus on AI ML solution but ignore how the solutions will be implemented. More than 80% of AI ML solutions don't get into production, that's where MLOPS comes in.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
