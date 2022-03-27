@@ -10,13 +10,13 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Fraud Detection
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Fraud detection using advanced AI & ML techniques. Support vector Machine, TensorFlow, CNN, RNN, XGBoost, Randome Forest, CART, CHAID all the possible techniques were used.
 
-## Header 2
+## MLOPS
 
-> This is a blockquote following a header.
+> MLOPS involves understading of ML implementation end to end from development to getting it productions ready.
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
@@ -96,9 +96,9 @@ end
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-### Large image
+### My Github
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](https://avatars.githubusercontent.com/u/102275019?v=4)
 
 
 ### Definition lists can be used with HTML syntax.
