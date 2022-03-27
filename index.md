@@ -26,7 +26,7 @@ Fraud detection using advanced AI & ML techniques. Support vector Machine, Tenso
 
 ### My Github
 
-![Branching](https://avatars.githubusercontent.com/u/102275019?v=4)
+![Branching](https://github.com/ajayantrix)
 
 
 ### Definition lists can be used with HTML syntax.
